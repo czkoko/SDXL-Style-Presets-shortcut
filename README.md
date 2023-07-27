@@ -11,7 +11,7 @@ with this project, it is suitable for generators that do not support style prese
 
 Just right-click to select the current prompt word >> Select the style, and you can automatically create a stylized prompt for you.
 
-Stylized prompts come from the public network and are slightly modified. Although there is a lack of negative prompt support, they can basically generate pictures that are in line with the style.
+Stylized prompts come from the public network and are slightly modified. Although there is a lack of negative prompt support, they can basically generate pictures that are in line with the style, Some styles are also applicable to SD 1.5.
 
 Installation: https://www.icloud.com/shortcuts/6925e095f5e24c169458b4676c596e2b
 
